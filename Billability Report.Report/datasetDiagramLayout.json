@@ -1,0 +1,979 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 550.1268310546875,
+        "y": 177.11997985839844
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 1954.0034383138018,
+            "y": 0
+          },
+          "nodeIndex": "_Measures",
+          "size": {
+            "height": 124,
+            "width": 234
+          },
+          "zIndex": 29
+        },
+        {
+          "location": {
+            "x": 501.29999999999745,
+            "y": 344.99999999999989
+          },
+          "nodeIndex": "d_History Contractual Hours",
+          "size": {
+            "height": 124,
+            "width": 234
+          },
+          "zIndex": 15
+        },
+        {
+          "location": {
+            "x": 257.44749348958322,
+            "y": 1006.6666666666669
+          },
+          "nodeIndex": "d_History Contractual Hours SUM",
+          "size": {
+            "height": 129,
+            "width": 234
+          },
+          "zIndex": 16
+        },
+        {
+          "location": {
+            "x": 837.73886068809941,
+            "y": 720.35093062605767
+          },
+          "nodeIndex": "f_Booked Hours",
+          "size": {
+            "height": 418.33333333333326,
+            "width": 234
+          },
+          "zIndex": 39
+        },
+        {
+          "location": {
+            "x": 1.6666666666666643,
+            "y": 1530
+          },
+          "nodeIndex": "d_Contractual Hours Previous Dates",
+          "size": {
+            "height": 124,
+            "width": 234
+          },
+          "zIndex": 17
+        },
+        {
+          "location": {
+            "x": 502.19999999999879,
+            "y": 490.00000000000006
+          },
+          "nodeIndex": "d_History Employee Competence",
+          "size": {
+            "height": 124,
+            "width": 234
+          },
+          "zIndex": 18
+        },
+        {
+          "location": {
+            "x": 523.12167968749827,
+            "y": 1008.3333333333334
+          },
+          "nodeIndex": "d_History Employee Competence SUM",
+          "size": {
+            "height": 124,
+            "width": 234
+          },
+          "zIndex": 19
+        },
+        {
+          "location": {
+            "x": 3.3333333333333286,
+            "y": 1822.0000000000002
+          },
+          "nodeIndex": "d_Competence Teams Previous Dates",
+          "size": {
+            "height": 124,
+            "width": 234
+          },
+          "zIndex": 20
+        },
+        {
+          "location": {
+            "x": 498.45479329426826,
+            "y": 200.00000000000006
+          },
+          "nodeIndex": "d_History Employee Department",
+          "size": {
+            "height": 124,
+            "width": 230.66666666666674
+          },
+          "zIndex": 31
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 1008.3333333333335
+          },
+          "nodeIndex": "d_History Employee Department SUM",
+          "size": {
+            "height": 124,
+            "width": 234
+          },
+          "zIndex": 21
+        },
+        {
+          "location": {
+            "x": 1.6666666666666714,
+            "y": 1674.2999999999997
+          },
+          "nodeIndex": "d_Department Teams Previous Dates",
+          "size": {
+            "height": 124,
+            "width": 234
+          },
+          "zIndex": 30
+        },
+        {
+          "location": {
+            "x": 983.33333460489916,
+            "y": 315
+          },
+          "nodeIndex": "d_Calendar",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 37
+        },
+        {
+          "location": {
+            "x": 1571.7666666666655,
+            "y": 733.26717428088
+          },
+          "nodeIndex": "d_Project Categories",
+          "size": {
+            "height": 124,
+            "width": 234
+          },
+          "zIndex": 43
+        },
+        {
+          "location": {
+            "x": 521.29706711787946,
+            "y": 725.19018612521188
+          },
+          "nodeIndex": "d_Activities",
+          "size": {
+            "height": 124,
+            "width": 234
+          },
+          "zIndex": 22
+        },
+        {
+          "location": {
+            "x": 257.98849407783422,
+            "y": 725.31032148900249
+          },
+          "nodeIndex": "d_Activity Groups",
+          "size": {
+            "height": 124,
+            "width": 234
+          },
+          "zIndex": 23
+        },
+        {
+          "location": {
+            "x": 1573.4331705729198,
+            "y": 877.0138549804683
+          },
+          "nodeIndex": "d_Cost Unit Hours",
+          "size": {
+            "height": 124,
+            "width": 234
+          },
+          "zIndex": 44
+        },
+        {
+          "location": {
+            "x": 1262.4506486181615,
+            "y": 431.82684715172
+          },
+          "nodeIndex": "d_Projects Division",
+          "size": {
+            "height": 184,
+            "width": 234
+          },
+          "zIndex": 33
+        },
+        {
+          "location": {
+            "x": 1578.4333333333332,
+            "y": 1020.6666666666658
+          },
+          "nodeIndex": "d_Customers",
+          "size": {
+            "height": 124,
+            "width": 228.99999999999955
+          },
+          "zIndex": 32
+        },
+        {
+          "location": {
+            "x": 1588.3999999999999,
+            "y": 449.10000000000014
+          },
+          "nodeIndex": "d_Divisions",
+          "size": {
+            "height": 124,
+            "width": 234
+          },
+          "zIndex": 24
+        },
+        {
+          "location": {
+            "x": 2211.2046813310772,
+            "y": 0
+          },
+          "nodeIndex": "d_Employees Division",
+          "size": {
+            "height": 124,
+            "width": 234
+          },
+          "zIndex": 35
+        },
+        {
+          "location": {
+            "x": 323.08158973138711,
+            "y": 1830.3201473449087
+          },
+          "nodeIndex": "d_Employees Division SUM",
+          "size": {
+            "height": 124,
+            "width": 234
+          },
+          "zIndex": 41
+        },
+        {
+          "location": {
+            "x": 1915.7507614213193,
+            "y": 415.20304568527939
+          },
+          "nodeIndex": "d_Employee Functions",
+          "nodeLineageTag": "60dc1b07-debc-4aac-894e-ac4030d31aff",
+          "size": {
+            "height": 197.33333333333331,
+            "width": 234
+          },
+          "zIndex": 34
+        },
+        {
+          "location": {
+            "x": 329.48161308516666,
+            "y": 2011.4219746253486
+          },
+          "nodeIndex": "d_Departments",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 25
+        },
+        {
+          "location": {
+            "x": 805.64458007812414,
+            "y": 0
+          },
+          "nodeIndex": "d_Month Details",
+          "size": {
+            "height": 157.33333333333334,
+            "width": 234
+          },
+          "zIndex": 26
+        },
+        {
+          "location": {
+            "x": 1264.9736789279516,
+            "y": 138.90278201633032
+          },
+          "nodeIndex": "d_Place Costs",
+          "nodeLineageTag": "201793ba-ae53-4664-86d7-bbe659671249",
+          "size": {
+            "height": 210,
+            "width": 234
+          },
+          "zIndex": 45
+        },
+        {
+          "location": {
+            "x": 3.3333333333333428,
+            "y": 1236.6666666666672
+          },
+          "nodeIndex": "d_Target Billability",
+          "size": {
+            "height": 124,
+            "width": 234
+          },
+          "zIndex": 27
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 1381.6666666666665
+          },
+          "nodeIndex": "d_Billability Target",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 40
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 727.26802030456872
+          },
+          "nodeIndex": "d_Activity Main Groups",
+          "size": {
+            "height": 124,
+            "width": 234
+          },
+          "zIndex": 28
+        },
+        {
+          "location": {
+            "x": 599.99999999999989,
+            "y": 1837.222290039063
+          },
+          "nodeIndex": "d_Teams Competence",
+          "size": {
+            "height": 124,
+            "width": 234
+          },
+          "zIndex": 9
+        },
+        {
+          "location": {
+            "x": 2213.0666666666666,
+            "y": 143.33333333333331
+          },
+          "nodeIndex": "d_Synergy Humres",
+          "size": {
+            "height": 124,
+            "width": 234
+          },
+          "zIndex": 10
+        },
+        {
+          "location": {
+            "x": 2214.2145833333343,
+            "y": 290
+          },
+          "nodeIndex": "d_Synergy Humres Last Date SUM",
+          "size": {
+            "height": 124,
+            "width": 234
+          },
+          "zIndex": 11
+        },
+        {
+          "location": {
+            "x": 2213.2444783528654,
+            "y": 436.66666666666663
+          },
+          "nodeIndex": "d_Synergy Humres Lastest FTE SUM",
+          "size": {
+            "height": 124,
+            "width": 234
+          },
+          "zIndex": 12
+        },
+        {
+          "location": {
+            "x": 1260.9307952622667,
+            "y": 726.75623237450623
+          },
+          "nodeIndex": "d_Projects",
+          "size": {
+            "height": 418.33333333333348,
+            "width": 234
+          },
+          "zIndex": 13
+        },
+        {
+          "location": {
+            "x": 353.89999999999969,
+            "y": 1342.3888888888891
+          },
+          "nodeIndex": "d_Employees",
+          "size": {
+            "height": 371.66666666666652,
+            "width": 234
+          },
+          "zIndex": 42
+        },
+        {
+          "location": {
+            "x": 2610.4,
+            "y": 0
+          },
+          "nodeIndex": "Billability Check",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 14
+        },
+        {
+          "location": {
+            "x": 54.66670735677053,
+            "y": 396.66666666666669
+          },
+          "nodeIndex": "d_History Employee Department Month",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 36
+        },
+        {
+          "location": {
+            "x": 3799,
+            "y": 0
+          },
+          "nodeIndex": "Billability Check Month",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 8
+        },
+        {
+          "location": {
+            "x": 1279.2000406901036,
+            "y": 0
+          },
+          "nodeIndex": "Year-Week ISO Ref 01",
+          "size": {
+            "height": 161.66666666666663,
+            "width": 234
+          },
+          "zIndex": 7
+        },
+        {
+          "location": {
+            "x": 1630.8665039062489,
+            "y": 10
+          },
+          "nodeIndex": "Year-Week ISO Ref 02",
+          "size": {
+            "height": 148.33333333333331,
+            "width": 234
+          },
+          "zIndex": 38
+        },
+        {
+          "location": {
+            "x": 4195.2,
+            "y": 0
+          },
+          "nodeIndex": "Weeks Filter",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 1
+        },
+        {
+          "location": {
+            "x": 4591.4,
+            "y": 0
+          },
+          "nodeIndex": "test table",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 2
+        },
+        {
+          "location": {
+            "x": 4966.8,
+            "y": 0
+          },
+          "nodeIndex": "Metrics description",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 3
+        },
+        {
+          "location": {
+            "x": 2703.3333346048994,
+            "y": 351.66666666666669
+          },
+          "nodeIndex": "Department End Month",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 4
+        },
+        {
+          "location": {
+            "x": 3402.8,
+            "y": 0
+          },
+          "nodeIndex": "Competence End Month",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 5
+        },
+        {
+          "location": {
+            "x": 1078.199951171875,
+            "y": 1192
+          },
+          "nodeIndex": "d_History Employee Competence Month",
+          "nodeLineageTag": "1d1e543f-8241-405f-ac37-d9c3d05cb670",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 6
+        }
+      ],
+      "name": "All tables",
+      "zoomValue": 50,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    },
+    {
+      "ordinal": 1,
+      "scrollPosition": {
+        "x": 0,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 0,
+            "y": 437
+          },
+          "nodeIndex": "d_Calendar",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 424,
+            "y": 437
+          },
+          "nodeIndex": "d_Month Details",
+          "size": {
+            "height": 124,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 431,
+            "y": 92
+          },
+          "nodeIndex": "d_Target Billability",
+          "size": {
+            "height": 124,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 81
+          },
+          "nodeIndex": "d_Employees",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "Layout 1",
+      "zoomValue": 50,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    },
+    {
+      "ordinal": 2,
+      "scrollPosition": {
+        "x": 0,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 343.55555343627935,
+            "y": 227.22223917643231
+          },
+          "nodeIndex": "f_Booked Hours",
+          "size": {
+            "height": 296.66666666666674,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 3.3333333333333144,
+            "y": 614.44445292154944
+          },
+          "nodeIndex": "d_History Employee Competence",
+          "size": {
+            "height": 124,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 340.22222010294581,
+            "y": 0
+          },
+          "nodeIndex": "d_History Employee Competence SUM",
+          "size": {
+            "height": 124,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 698.55555343627941,
+            "y": 621.66666666666663
+          },
+          "nodeIndex": "d_Competence Teams Previous Dates",
+          "size": {
+            "height": 124.66666666666674,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 342.82465744018572,
+            "y": 618.33333333333337
+          },
+          "nodeIndex": "d_Calendar",
+          "size": {
+            "height": 124,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 286.076380411784
+          },
+          "nodeIndex": "d_Projects Division",
+          "size": {
+            "height": 124,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 693.20000076293945,
+            "y": 0
+          },
+          "nodeIndex": "d_Teams Competence",
+          "size": {
+            "height": 124,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 693.53333409627282,
+            "y": 228.33333333333331
+          },
+          "nodeIndex": "d_Employees",
+          "size": {
+            "height": 295.66666666666669,
+            "width": 234
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "Layout 2",
+      "zoomValue": 50,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    },
+    {
+      "ordinal": 3,
+      "scrollPosition": {
+        "x": 0,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 332.20000076293945,
+            "y": 260
+          },
+          "nodeIndex": "f_Booked Hours",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 8,
+            "y": 646
+          },
+          "nodeIndex": "d_History Employee Department",
+          "size": {
+            "height": 134,
+            "width": 218
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 332,
+            "y": 22
+          },
+          "nodeIndex": "d_History Employee Department SUM",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 940.66666412353516,
+            "y": 435
+          },
+          "nodeIndex": "d_Department Teams Previous Dates",
+          "size": {
+            "height": 126,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 324.66666412353516,
+            "y": 645
+          },
+          "nodeIndex": "d_Calendar",
+          "size": {
+            "height": 138,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 657.06665802001953,
+            "y": 651
+          },
+          "nodeIndex": "d_Teams Competence",
+          "size": {
+            "height": 124,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 653.66666793823242,
+            "y": 265
+          },
+          "nodeIndex": "d_Employees",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "Layout 3",
+      "zoomValue": 50,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    },
+    {
+      "ordinal": 4,
+      "scrollPosition": {
+        "x": 0,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 623.33333206176746,
+            "y": 618
+          },
+          "nodeIndex": "d_History Contractual Hours",
+          "size": {
+            "height": 124,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 934.19047437395375,
+            "y": 230
+          },
+          "nodeIndex": "d_History Contractual Hours SUM",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 620,
+            "y": 60.857142857142946
+          },
+          "nodeIndex": "f_Booked Hours",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 230.04761995588035
+          },
+          "nodeIndex": "d_Contractual Hours Previous Dates",
+          "size": {
+            "height": 124,
+            "width": 201.14285714285717
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 625.04761723109664,
+            "y": 435.28571428571433
+          },
+          "nodeIndex": "d_Calendar",
+          "size": {
+            "height": 124,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 285.04761723109664,
+            "y": 59.380959647042459
+          },
+          "nodeIndex": "d_Employees",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "Layout 4",
+      "zoomValue": 50,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    },
+    {
+      "ordinal": 5,
+      "scrollPosition": {
+        "x": 0,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 718,
+            "y": 82
+          },
+          "nodeIndex": "d_Place Costs",
+          "nodeLineageTag": "201793ba-ae53-4664-86d7-bbe659671249",
+          "size": {
+            "height": 272,
+            "width": 234
+          },
+          "zIndex": 3
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 70
+          },
+          "nodeIndex": "d_Projects",
+          "nodeLineageTag": "e336fb45-4130-49a2-b864-f890e89f51f2",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 1
+        },
+        {
+          "location": {
+            "x": 351,
+            "y": 64
+          },
+          "nodeIndex": "d_Projects Division",
+          "nodeLineageTag": "1ef9ccce-e879-4b0a-8605-a86f9a65edd6",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 2
+        }
+      ],
+      "name": "Layout 5",
+      "zoomValue": 100,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "Layout 5",
+  "defaultDiagram": "All tables"
+}
